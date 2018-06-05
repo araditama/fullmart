@@ -1,1 +1,1 @@
-FullMart - Java Spring Boot Implementation
+FullMart - Java Spring Boot & Thymeleaf Implementation
